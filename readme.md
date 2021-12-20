@@ -1,7 +1,7 @@
 
 # Scrum Sprint Tracker
 
-This prject is about monitoring the Key Performance Indicator(KPI) of a Sprint, found in Scrum project management.
+This project is about monitoring the Key Performance Indicator(KPI) of a Sprint, found in Scrum project management.
 
 ### Scrum Master (API : localhost:8080/master/**)
 
